@@ -20,8 +20,8 @@
 - 23) Очистить корзину (Admin)
 
  ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/r.png)
-  ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/recyler.png)
-    ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/zd.png)
-      ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80.png)
+ ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/recyler.png)
+ ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/zd.png)
+ ![image alt](https://github.com/123wask/TaskTracker2324/blob/fd822fc593ff5779970a5c534080ada87a07996e/%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80.png)
     
   
